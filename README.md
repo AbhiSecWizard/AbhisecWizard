@@ -18,7 +18,7 @@ Feel free to explore my repositories, check out my projects, and connect with me
 
 ## 🛠️ Technologies & Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,threejs,git,github" alt="Tech Stack Icons" width="600" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,react,git,github" alt="Tech Stack Icons" width="600" /> 
 </div>
 
 - **HTML5**
@@ -26,7 +26,6 @@ Feel free to explore my repositories, check out my projects, and connect with me
 - **JavaScript**
 - **C Language**
 - **React.js**
-- **Three.js**
 - **Git & GitHub**
 
 ---
@@ -56,13 +55,9 @@ Feel free to explore my repositories, check out my projects, and connect with me
 
 ## 🧠 Currently learning:
 - **React.js**  
-- **Three.js**
 
 ## 🌟 Featured Projects:
-1. **3D Solar System with Three.js** 🌌  
-   - Explore the planets and stars in a dynamic 3D solar system.
-
-2. **Interactive Portfolio Website** 💻  
+1. **Interactive Portfolio Website** 💻  
    - Built with **HTML5**, **CSS3**, and **JavaScript**, showcasing my design and development skills.
 
 ---
@@ -81,9 +76,6 @@ Feel free to explore my repositories, check out my projects, and connect with me
 ## 🏆 Achievements:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AbhishekYadav&theme=radical&no-frame=true&row=1&column=6)
-
----
-
 
 ---
 
