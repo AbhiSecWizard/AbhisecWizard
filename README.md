@@ -1,7 +1,7 @@
 # Hello World! 👋
 ### Welcome to my GitHub Profile!
 
-I'm **Abhishek Yadav**, a passionate Full Stack Developer and MERN Stack Expert. I specialize in building robust web applications, robust authentication systems, and real-time data management solutions. I love learning new technologies and crafting high-impact projects.
+I'm **Abhishek Yadav**, a passionate Full Stack Developer and MERN Stack Expert. I specialize in building robust web applications, secure authentication systems, and real-time data management solutions. I love learning new technologies and crafting high-impact projects.
 
 ---
 
@@ -35,9 +35,9 @@ I'm **Abhishek Yadav**, a passionate Full Stack Developer and MERN Stack Expert.
 
 ---
 
-## 🏆 GitHub Trophies (Dynamic):
+## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhisecWizard&theme=radical&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -45,16 +45,16 @@ I'm **Abhishek Yadav**, a passionate Full Stack Developer and MERN Stack Expert.
 ## 📈 GitHub Stats & Dynamic Graphs:
 
 <p align="center">
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Abhishek's GitHub Stats" width="48%" />
+  <!-- General Stats (Using stable vercel backup instance to prevent rate limit errors) -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AbhisecWizard&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AbhisecWizard&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisecWizard&theme=radical" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
